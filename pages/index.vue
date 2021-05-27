@@ -1,0 +1,56 @@
+<template>
+  <div>
+    <b-container>
+      <div>
+        <b-jumbotron header="Hello 👋" lead="">
+          <b-navbar type="light" variant="warning">
+            <h3>I'm Mahmud Jion,</h3>
+          </b-navbar>
+          <br />
+          <p>
+            A Software Engineer with  more than two years of experience in software and web
+            development. <br />I have completed my Bachelor in Computer Science
+            & Engineering from American International University-Bangladesh
+            (AIUB) and since then working as web developer and had some
+            experience on building multi-vendors E-commerce platforms.
+          </p>
+          <h4>Currently working with</h4>
+          <b-navbar type="light" variant="warning">
+            <h4>
+              PHP, Codeigniter, Vue.js/React, Javascript, Next/Nuxt and Node.js
+            </h4>
+          </b-navbar>
+          <br />
+          <div>
+            <h5>Check my works and profile</h5>
+            <ul>
+              <li>
+                <a href="https://github.com/MahmudJion" target="_blank">GitHub</a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/mahmud-hasan-jion/" target="_blank">Linkedin</a>
+              </li>
+              <li>
+                <a href="https://twitter.com/mahmudhjion" target="_blank">Twitter</a>
+              </li>
+            </ul>
+          </div>
+        </b-jumbotron>
+      </div>
+    </b-container>
+  </div>
+</template>
+
+<script>
+export default {}
+</script>
+
+<style>
+.container {
+  margin: 0 auto;
+  min-height: 95vh;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+</style>
