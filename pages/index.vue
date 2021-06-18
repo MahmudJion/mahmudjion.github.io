@@ -31,7 +31,7 @@
                 <a href="https://www.linkedin.com/in/mahmud-hasan-jion/" target="_blank">Linkedin</a>
               </li>
               <li>
-                <a href="https://twitter.com/mahmudhjion" target="_blank">Twitter</a>
+                <a href="https://twitter.com/mahmudhasanjion" target="_blank">Twitter</a>
               </li>
             </ul>
           </div>
