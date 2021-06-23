@@ -4,7 +4,7 @@
       <div>
         <b-jumbotron header="Hello 👋" lead="">
           <b-navbar type="light" variant="warning">
-            <h3>I'm Mahmud Hasan Jion,</h3>
+            <h2>I'm Mahmud Hasan Jion,</h2>
           </b-navbar>
           <br />
           <p>
@@ -17,13 +17,13 @@
           </p>
           <h4>Currently working with</h4>
           <b-navbar type="light" variant="warning">
-            <h4>
+            <h3>
               PHP, Codeigniter, Vue.js/React, Javascript, Next/Nuxt and Node.js
-            </h4>
+            </h3>
           </b-navbar>
           <br />
           <div>
-            <h5>Check my works and profile</h5>
+            <h4>Check my works and profile</h4>
             <ul>
               <li>
                 <a href="https://github.com/MahmudJion" target="_blank"
