@@ -24,25 +24,17 @@
           <br />
           <div>
             <h4>Check my works and profile</h4>
-            <ul>
-              <li>
-                <a href="https://github.com/MahmudJion" target="_blank"
-                  >GitHub</a
-                >
-              </li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/in/mahmud-hasan-jion/"
-                  target="_blank"
-                  >Linkedin</a
-                >
-              </li>
-              <li>
-                <a href="https://twitter.com/mahmudhasanjion" target="_blank"
-                  >Twitter</a
-                >
-              </li>
-            </ul>
+              <ul class="ul">
+                <li>
+                  <a href="https://github.com/MahmudJion" style="text-decoration: none; color:#24292E" target="_blank">GitHub</a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/in/mahmud-hasan-jion/" style="text-decoration: none; color:#0A66C2" target="_blank">Linkedin</a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/mahmudhasanjion" style="text-decoration: none; color:#1A91DA" target="_blank">Twitter</a>
+                </li>
+              </ul>
           </div>
         </b-jumbotron>
       </div>
@@ -62,5 +54,8 @@ export default {}
   display: flex;
   justify-content: right;
   align-items: center;
+}
+.ul {
+  list-style-type: square;
 }
 </style>
